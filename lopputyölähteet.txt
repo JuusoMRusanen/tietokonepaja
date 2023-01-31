@@ -1,0 +1,30 @@
+Taustakuva (Intel -logo poistettu): https://i.kinja-img.com/gawker-media/image/upload/t_original/19e2i1x9r4o7fjpg.jpg
+Fontti: https://www.dafont.com/cinerama.font
+Kuva1.jpg: https://pcper.com/wp-content/uploads/2019/02/614f-radeon-vii-testbench.jpg
+Kuva2.jpg: https://images.techhive.com/images/article/2016/11/linux-penguin-security-100694867-large.jpg
+Kuva3.jpg: http://blogs.biomedcentral.com/bugbitten/wp-content/uploads/sites/11/2017/12/quiz-2137664_1920.jpg
+kuva4.jpg: https://i.ytimg.com/vi/mJW5TIOfBqg/maxresdefault.jpg
+Android -ikoni (väri muokattu): https://fontawesome.com/icons/android?style=brands
+Windows -ikoni (väri muokattu): https://fontawesome.com/icons/windows?style=brands
+Apple -ikoni (väri muokattu): https://fontawesome.com/icons/apple?style=brands
+Linux -ikoni (väri muokattu): https://fontawesome.com/icons/linux?style=brands
+Android, OS-X, Linux ja Windows -tekstit: http://rosa.utu.fi/tradeict/kayttojarjestelmateorian-sisallysluettelo/kayttojarjestelman-perusteet/
+case.jpg: https://brain-images-ssl.cdn.dixons.com/9/5/10179059/u_10179059.jpg
+hdd.jpg: https://brain-images-ssl.cdn.dixons.com/5/8/10174585/u_10174585.jpg
+ram.jpg: https://i.ebayimg.com/images/i/331118606055-0-1/s-l1000.jpg
+psu.jpg: https://sgcdn.startech.com/005329/media/products/gallery_large/ATX2PW400PRO.main.jpg
+mb.jpg: https://www.quietpc.com/images/products/ga-z68mx-ud2h-b3-large.jpg
+gpu.jpg: http://cdn.wccftech.com/wp-content/uploads/2014/06/AMD-Tonga-GPU.jpg
+cpu.jpg: https://tafestuff.files.wordpress.com/2014/11/intelprocessor_front-and-back.jpg
+prosessori teksti: https://kannettavatietokone.fi/info/suoritin.html
+emolevy teksti: https://fi.wikibooks.org/wiki/Tietokoneet/Tietokoneen_rakenne
+näytönohjain teksti: https://fi.wikipedia.org/wiki/N%C3%A4yt%C3%B6nohjain
+keskusmuisti teksti: https://fi.wikipedia.org/wiki/Keskusmuisti
+kiintolevy teksti: https://fi.wikipedia.org/wiki/Kiintolevy
+virtalähde teksti: https://fi.wikipedia.org/wiki/Hakkuritehol%C3%A4hde
+kotelo teksti: https://fi.wikipedia.org/wiki/Tietokoneen_kotelo
+videon lähde: https://www.youtube.com/embed/gO-V8E9MIBg
+Tietovisan pyörivän laatikon tekemiseen sain ohjeet täältä: https://youtu.be/HoFsAyHQLeU
+on.jpg: https://i.vimeocdn.com/portrait/10473452_300x300
+tausta.jpg ja tausta3.jpg omaa tuotosta.
+tausta2.jpg: https://i.pinimg.com/originals/eb/2a/33/eb2a33ef67815e219f838d69e642aaf2.jpg

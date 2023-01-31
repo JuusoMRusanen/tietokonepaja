@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>main</title>
+        <link href="kaikkioikein_tyylit.css" rel="stylesheet" type="text/css" media="all"/>
+    </head>
+    <body onload="soita();">
+        <div id="header">
+            <h1><a href="main.html">Tietokonepaja</a></h1>
+        </div>
+        <div id="nav">
+            <ul>
+                <li><a href="main.html">ETUSIVU</a></li>
+                <li><a href="page1.html">KOMPONENTIT</a></li>
+                <li><a href="page2.html">KÄYTTÖJÄRJESTELMÄT</a></li>
+                <li><a href="page3.html">TIETOVISA</a></li>
+                <li><a href="page4.html">TEE SE ITSE!</a></li>
+            </ul>
+        </div>
+        <div id="content">
+            <div id="testilaatikko">
+                <div id="kysymyslaatikko">
+                    <div id="kysymys"><p id="kysymysteksti">Hyvä! Kaikki oikein! (5/5)</p>
+                        <a href="page3.html"><div id="lopeta_nappi"><p>Lopeta</p></div></a>
+                    </div>
+                    <div id="kuutio">
+                        <div id="etu_sivu"></div>
+                        <div id="taka_sivu"></div>
+                        <div id="vasen_sivu"></div>
+                        <div id="oikea_sivu"></div>
+                        <div id="yla_sivu"></div>
+                        <div id="ala_sivu"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+            <p>Juuso Rusanen TKMI19SP</p>
+        </div>
+        <audio>
+            <source id="musiikki" src="musiikki.mp3" type="audio/mpeg">  
+        </audio>
+    </body>
+    <script>
+        let x = document.getElementById("musiikki");
+        function soita(){
+            x.play();
+        }
+    </script>
+</html>

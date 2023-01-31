@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>main</title>
+        <link href="tyylit.css" rel="stylesheet" type="text/css" media="all"/>
+    </head>
+    <body>
+        <div id="header">
+            <h1><a href="main.html">Tietokonepaja</a></h1>
+        </div>
+        <div id="nav">
+            <ul>
+                <li><a href="main.html">ETUSIVU</a></li>
+                <li><a href="page1.html">KOMPONENTIT</a></li>
+                <li><a href="page2.html">KÄYTTÖJÄRJESTELMÄT</a></li>
+                <li><a href="page3.html">TIETOVISA</a></li>
+                <li><a href="page4.html">TEE SE ITSE!</a></li>
+            </ul>
+        </div>
+        <div id="content">
+            <div id="col1">
+                <p>Tervetuloa!</p>
+
+                <p>Tietokone koostuu lukuisista komponenteista ja ohjelmista, joista vain tietyt ovat tarpeellisia. Tämä sivusto tarjoaa ainutlaatuisen tilaisuuden oppia mitä nämä tietokoneen komponentit ovat, mikä tarkoitus niillä on ja miltä ne näyttävät.</p>
+
+                <p>Sivustolla on myös tietovisa peli, jonka avulla voit testata tietojasi!</p>
+                    
+                <p>Tiesitkö, että oman henkilökohtaisen pöytätietokoneen voi myös koota? Tämä sivu näyttää kuinka voit tehdä sen itse!</p>
+            </div>
+            <div id="page_div">
+                <a href="page1.html" id="col2"><p>KOMPONENTIT</p></a>
+        
+                <a href="page2.html" id="col3"><p>KÄYTTÖJÄRJESTELMÄT</p></a>
+
+                <a href="page3.html" id="col4"><p>TIETOVISA</p></a>
+
+                <a href="page4.html" id="col5"><p>TEE SE ITSE!</p></a>
+            </div>
+            <div id="form_div">
+                <form>
+                    <fieldset>
+                    <legend>Anna palautetta</legend>
+                    <div id="form_obj_col">
+                        <div id="label_divs"><label for="nimi">Nimi: </label></div><input id="nimi">
+                    </div>
+                    <div id="form_obj_col">
+                        <div id="label_divs"><label for="email">S-posti: </label></div><input id="email">
+                    </div>
+                    <div id="form_obj_col">
+                        <label>Arvostele asteikolla 1-5:</label>
+                        <ul>
+                            <li><label for="1">1</label><input id="1" type="radio" name="arvos"/></li>
+                            <li><label for="2">2</label><input id="2" type="radio" name="arvos"/></li>
+                            <li><label for="3">3</label><input id="3" type="radio" name="arvos"/></li>
+                            <li><label for="4">4</label><input id="4" type="radio" name="arvos"/></li>
+                            <li><label for="5">5</label><input id="5" type="radio" name="arvos"/></li>
+                        </ul>
+                    </div>
+                    <div id="form_obj_col">
+                        <label for="palautelaatikko">Palaute: </label>
+                        <textarea id="palautelaatikko">
+                        </textarea>
+                    </div>
+                    <div id="form_obj_col">
+                        <button>Lähetä</button>
+                    </div>
+                    </fieldset>
+                </legend>
+                </form>
+            </div>
+        </div>
+        
+        <div id="footer">
+            <p>Juuso Rusanen TKMI19SP</p>
+        </div>
+    </body>
+</html>
